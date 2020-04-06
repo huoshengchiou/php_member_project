@@ -1,0 +1,2 @@
+這裡是後端管理頁面 - <a href="./admin.php">通訊錄全覽</a> | <a href="./new.php">新增</a> | <a href="">會員查詢</a>| <a href="./logOut.php?logout=1">登出</a>
+                                                                                                     <!-- 預設往後頁送logout=1 string -->
